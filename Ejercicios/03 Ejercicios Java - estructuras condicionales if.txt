@@ -2,9 +2,9 @@
 	Ejercicio1:
         Según la edad de una persona mostraremos los siguientes mensajes:
         menos de 12 años: "eres un niño"
-        entre 12 de 18 años: "eres un adolescente"
+        entre 12 de 17 años: "eres un adolescente"
         entre 18 y 39 años: "eres joven" 
-        entre 41 y 70: "eres maduro"
+        entre 40 y 70: "eres maduro"
         71 para arriba: "eres anciano"
         */
         
