@@ -1,0 +1,35 @@
+	/*
+	Ejercicio1:
+        Según la edad de una persona mostraremos los siguientes mensajes:
+        menos de 12 años: "eres un niño"
+        entre 12 de 18 años: "eres un adolescente"
+        entre 18 y 39 años: "eres joven" 
+        entre 41 y 70: "eres maduro"
+        71 para arriba: "eres anciano"
+        */
+        
+        /*
+        Ejercicio 2:
+        Dada la siguiente tabla del tiempo, hacer un
+        programa que indique qué puede hacer una
+        persona con dicho pronóstico:
+        
+        Temperatura     Tiempo      Sugerencia
+        > 25°           Soleado     Caminar y tomar sol
+        > 15° y <=25°   Soleado     Caminar
+        <=15°           Soleado     Caminar con campera
+        <10°            Lluvia      Quedarse en casa o salir con paraguas y campera
+        <10°            Nieve       Esquiar
+        
+        Luego pedirle al usuario que ingrese una temperatura y una condición
+        del tiempo válida (Soleado, lluvia o nieve) e indicarle la sugerencia.
+        */
+        
+                
+        /*
+        Ejercicio 3:
+        Solicitar al usuario que ingrese 3 números. 2 positivos y 1 negativo
+        (en cualquier orden).
+        Luego, informar por pantalla la multiplicación de los números que son positivos
+         */
+        
