@@ -1,0 +1,24 @@
+	/*
+        Ejercicios funciones:
+        1. crear una función que devuelva la cantidad de vocales de una palabra
+        2. crear una función que indique si un número es múltiplo de 3
+        3. crear una función que aplique %50 de premio si el ingreso es de más de 35.000
+        */
+ 	
+	/*
+        Ejercicios procedimientos:
+        1. Crear un procedimiento que calcule el área del triángulo y lo informe por pantalla
+        2. Crear un procedimiento que muestre por pantalla el valor del IVA de un producto 
+        ingresado como parámetro
+	3. Crear un procedimiento que muestre por pantalla la cantidad de números impares 
+        que ingresa el usuario y lo informe por pantalla	
+        */
+        
+        /*
+        Crear un programa que reciba 3 parámetros y calcule la suma, resta, multiplicación, división y
+        el resto de dos números con decimales. Las consignas para lograrlo son:
+        * Debe crear un procedimiento, que reciba los 3 parámetros: 2 números con
+        decimales y el carácter de operación.
+        * Debe crear las funciones de las operaciones que retornen un número con decimales.
+        * Debe mostrar por consola un mensaje que indique el resultado y la operación realizada
+        */
