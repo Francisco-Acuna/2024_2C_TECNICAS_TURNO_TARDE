@@ -1,0 +1,22 @@
+	/*
+        Crear un vector que contenga el monto de la facturación total de una empresa
+        de los últimos 6 meses
+        informar:
+        la máxima facturación
+        la facturación más baja
+        el promedio de facturación
+        */
+
+	/*
+        Pedirle al usuario que ingrese el tamaño del vector (longitud)
+        Luego pedirle al usuario que cargue los números de cada posición.
+        Al finalizar, por pantalla mostrar:
+            * Listado de números ingresados, uno al lado del otro separados por una barra.
+            * Sumatoria de todos los números
+            * Mayor número ingresado
+            * Menor número ingresado
+            * Promedio de números ingresados (entero, sin decimales)
+            * Cantidad de números pares
+            * Cantidad de números impares
+        */
+
